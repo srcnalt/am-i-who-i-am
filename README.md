@@ -10,16 +10,13 @@ We made dis within [Global Game Jam 2014 in Izmir](https://globalgamejam.org/201
 
 Platforms: Any platform capable of running Löve2D game engine
 
-Installation instructions:
-  - Compress this folder and create a zip file (main.lua must be on the root level)
-  - For Windows: drag this `.zip` file onto the shortcut of `love.exe`
-  - For Linux: run this command on the console, after installing Löve2D engine and its dependencies `love am-i-who-i-am.zip`
-  - For Mac OS: To be honest, never tried out.
+Play:
+ - Go to `Build` folder and click on AIWIA.exe
 
 Graphics:
-  - [Sercan Altundas](https://github.com/srcnalt/)
+ - [Sercan Altundas](https://github.com/srcnalt/)
 
 Code:
-  - [Seref Filizcan](https://github.com/SerefFilizcan)
-  - [Cengiz Karaboz](https://github.com/equesf5)
-  - [Alper Kilci](https://github.com/alperklc)
+ - [Seref Filizcan](https://github.com/SerefFilizcan)
+ - [Cengiz Karaboz](https://github.com/equesf5)
+ - [Alper Kilci](https://github.com/alperklc)
